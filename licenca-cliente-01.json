@@ -1,4 +1,5 @@
 {
-   2       "bloqueado": false,
-   3       "mensagem": "Licença Expirada! Entre em contato com Edielsenn: (61) 98117-8516"
-   4     }
+   "bloqueado": false,
+   "dataExpiracao": "2026-06-30",
+   "mensagem": "Licença Expirada! Entre em contato com Edielsenn: (61) 98117-8516"
+}
